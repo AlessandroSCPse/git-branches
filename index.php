@@ -11,7 +11,7 @@
 
     <h2>La nostra azienda fa progetti bellissimi con Laravel!</h2>
 
-    <p>Benvenuto nella nostra azienda, contatta un consulente</p>
+    <p>Ciao ciao nella nostra azienda, contatta un consulente</p>
 
     <p>Altro testo per spiegare all'utente le cose</p>
 </body>
