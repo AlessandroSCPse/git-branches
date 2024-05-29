@@ -9,6 +9,6 @@
     
     <h1>Benvenuti git branches nel mio progetto altro</h1>
 
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea doloremque autem cum dolor, consequatur est nemo. Iusto, voluptates! Fugiat, dignissimos? Deserunt accusamus velit beatae nemo possimus saepe aspernatur, laborum ducimus?</p>
+    <p>La nostra azienda fa progetti bellissimi con Laravel!</p>
 </body>
 </html>
